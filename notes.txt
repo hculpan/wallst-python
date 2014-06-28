@@ -1,0 +1,17 @@
+----------------------------
+| Company names
+----------------------------
+
+Seattle First National Bank [bank]
+Rainier National Bank       [bank]
+Weyerhauser Corp.           [natural resources]
+Georgia-Pacific             [natural resources]
+Bellevue Square             [retail]
+Northgate Mall              [retail]
+Boeing Aerospace            [manufacturing]
+Pacific Car & Foundry       [manufacturing]
+
+American Holdings
+Evergreen Holdings
+United Holdings
+Tanstaafl Holdings
