@@ -15,13 +15,13 @@ def writeToJson(game_obj, game_name, file_name):
         outfile.write(obj)
 
 if __name__ == "__main__":
-    print "WALLST v1.0"
-    print "Create New Game script"
+    print ("WALLST v1.0")
+    print ("Create New Game script")
 
     if len(sys.argv) == 2:
         game_name = sys.argv[0]
     else:
-        game_name = raw_input("Name of game: ")
+        game_name = input("Name of game: ")
 
     print ("Game name: " + game_name)
 

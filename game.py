@@ -1,5 +1,7 @@
 __author__ = 'usucuha'
 
+import concatjsondecoder
+
 class Game:
     def __init__(self, gameName):
         self.gameName = gameName
@@ -16,3 +18,5 @@ class Game:
             "Pacific Car & Foundry"
         ]
 
+    def loadGame(self, gameName):
+        self.gameName = gameName
